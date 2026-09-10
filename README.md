@@ -1,6 +1,6 @@
 ### Hi, I'm Sammyteck 👋
 
-**Frontend Developer | Open Source Contributor | Onitsha, NG**
+**Frontend Developer | Open Source Contributor | Enugu, NG**
 
 I build responsive websites and love contributing to open source.
 
