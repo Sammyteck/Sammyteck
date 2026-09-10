@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Sammyteck 👋
 
-<!--
-**Sammyteck/Sammyteck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer | Open Source Contributor | Onitsha, NG**
 
-Here are some ideas to get you started:
+I build responsive websites and love contributing to open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 What I'm working on
+- Contributing to open source projects like openforge
+- Building projects in my `Portfolio` repo
+- Learning HTML, CSS, and JavaScript
+
+#### 🛠️ Skills
+HTML • CSS • Git • GitHub
+
+#### 📬 How to reach me
+- **Email**: albesamuel@gmail.com
+- **Portfolio**: Sammyteck/Portfolio
