@@ -14,4 +14,5 @@ HTML • CSS • Git • GitHub
 
 #### 📬 How to reach me
 - **Email**: albesamuel@gmail.com
-- **Portfolio**: Sammyteck/Portfolio
+  
+    - **Portfolio**: https://sammyteck.github.io/Portfolio/
